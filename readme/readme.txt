@@ -5,6 +5,12 @@
   
 * Junixsocket Library: 
   ==>/opt/newsclub/lib-native/libjunixsocket-linux-1.5-amd64.so
+  
+* Deployment Path: 
+  ==>/data/opt/DomainSocketServer/
+     - chineseFactored.ser.gz
+     - StanfordDomainSocketServer_closeConn_V3.0.jar
+	 - startup.sh
 
 * IPC file path: 
   ==>/data/opt/ipc_tmp/ipc_tmp.txt
